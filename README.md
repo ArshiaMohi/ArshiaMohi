@@ -27,9 +27,4 @@ I'm a 15-year-old developer from Iran, focused on building web applications and 
 - Learn databases and REST APIs
 - Contribute to open-source projects
 
-## 📌 Featured Projects
-
-Coming soon...
-
----
 "Code. Learn. Build. Repeat."
