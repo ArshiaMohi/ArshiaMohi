@@ -1,8 +1,8 @@
 # Hey, I'm Arshia 👋
 
-### 💻 Web Developer in Progress
+### 💻 Java Backend Developer in Progress
 
-I'm a 15-year-old developer from Iran, focused on building web applications and learning modern backend technologies.
+I'm a developer from Iran, focused on building web applications and learning modern backend technologies.
 
 ## 🚀 About Me
 
